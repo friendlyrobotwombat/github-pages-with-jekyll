@@ -1,5 +1,5 @@
 ---
-title: Cybersecurity skills shortage you say?
+title: "Cybersecurity skills shortage you say?"
 date: 2021-10-22
 ---
 
